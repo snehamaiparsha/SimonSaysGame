@@ -1,4 +1,4 @@
-#SimonSays
+# SimonSays
 
 The Simon Says game is a classic children's game that tests players' listening skills and ability to follow instructions
  For example, if Simon says "Simon says touch your nose," players must touch their noses. 
